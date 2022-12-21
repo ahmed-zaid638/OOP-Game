@@ -17,7 +17,6 @@ Character.prototype.attack = function (opponent) {
    opponent.attackBtn.remove();
    opponent.makeHealthBtn.remove();
    opponent.text.style.display ="block"
-   
  }
 };
 // status method
@@ -38,7 +37,6 @@ Character.prototype.makeHealth = function () {
     console.log("health >  100");
   }
 };
-
 let naroto = new Character("naroto", 100, 10);
 let sasakie = new Character("sasakie", 100, 10);
 
@@ -56,6 +54,3 @@ sasakie.attackBtn.addEventListener("click", function () {
 sasakie.makeHealthBtn.addEventListener("click", function () {
   sasakie.makeHealth();
 });
-
-
-

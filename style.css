@@ -1,15 +1,16 @@
 .boxs {
   display: flex;
   justify-content: space-between;
-  max-width: 100%;
+  max-width: 1000px;
+  margin: auto;
+  padding: 40px 0 ;
 }
-
 .box {
   padding: 20px;
-  border: 1px solid rgb(133, 131, 131);
-  margin:0  10px;
+  margin: 0 10px;
   width: 100%;
   text-align: center;
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
 }
 .box .sasakie-health-progress,
 .box .naroto-health-progress {
