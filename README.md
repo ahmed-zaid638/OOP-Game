@@ -5,6 +5,6 @@
 - customizing prototype method to control each object properties
 
 ## Technologies / Tools 
-- HTML / CSS / JS OPP
+- HTML / CSS / JS OOP
 
 
