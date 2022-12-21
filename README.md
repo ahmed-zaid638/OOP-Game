@@ -2,7 +2,7 @@
 
 ## Functionalities 
 - applying some OOP concepts like inheritanc
-- customizing prototype method to control each oject properties
+- customizing prototype method to control each object properties
 
 ## Technologies / Tools 
 - HTML / CSS / JS OPP
